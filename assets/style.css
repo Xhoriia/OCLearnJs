@@ -138,6 +138,11 @@ header {
 	bottom: 40px;
 	display: flex;
 }
+
+.dots-flex{
+	display: flex;
+}
+
 .dot {
 	margin-inline: 5px;
 	width: 13px;
